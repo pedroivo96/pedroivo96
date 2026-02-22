@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou o Pedro Ivo. Aqui no GitHub sou o pedroivo96
 - 👀 Estou interessado em demonstrar e registrar minha evolução na área de Frond-end, mas também sou Analista de Segurança da Informação e trabalho com Proteção de Dados, Privacidade e Segurança da Informação.
-- 🌱 Atualmente estou aprofundando meus estudos em Front-end (Vue.js, Angular, React, CSS 3, HTML 5)
+- 🌱 Atualmente estou aprofundando em React.js e Python.
 - 💞️ Busco colaborar com a comunidade de desenvolvimento bem como aprender com todos!
 - 📫 Me encontrem no LinkedIn (https://www.linkedin.com/in/pedroivo96/)
 
